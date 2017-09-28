@@ -1,0 +1,11 @@
+
+//命名规则："UI" + 功能名称 + "." + "组件类型" + "表达意思"
+{
+  "UILogin.TextAccount": "账号：",
+  "UILogin.TextPassword": "密码：",
+  "UILogin.BtnRegist": "注册",
+  "UILogin.BtnLogin": "登陆",
+
+  "UIRoom.TextChangeTableLonding": "正在换桌，请稍等...",
+  "UIRoom.TextReConnectLonding": "正在重连，请稍等..."
+}
